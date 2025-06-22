@@ -10,3 +10,5 @@ __pycache__
 rpm/*.log
 *.bak
 hape/conf/generated
+CMakeLists.txt
+cmake-build-debug/
